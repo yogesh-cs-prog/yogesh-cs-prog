@@ -32,7 +32,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/yogesh_prog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yogesh_prog/" height="30" width="40" /></a>
 </p>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=RajkumarPalanichamy&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogesh-cs-prog&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 <br/>
 <h3 align="left">Languages and Tools:</h3>

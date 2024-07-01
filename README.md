@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh S A</h1>
 <h3 align="center">Full Stack Developer | International Chess Player</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAGJrXqXs3Q/HVvmztGUyEzC48dhyyMm2A/watch?utm_content=DAGJrXqXs3Q&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-cs-prog&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-cs-prog" /> </p>
 

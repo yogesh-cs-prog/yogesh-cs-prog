@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yogesh S A</h1>
 <h3 align="center">Full Stack Developer | International Chess Player</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-cs-prog&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-cs-prog" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-cs-prog" alt="yogesh-cs-prog" /></a> </p>
 
 - 🔭 I’m currently working on **AmizhBirth&Yoga**
 
@@ -19,7 +23,7 @@
 
 - 📫 How to reach me **yogesh.5prog@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qs7wO5UOYOLJVpbCufXhjxMYhoqWUdzL/view?usp=sharing](https://drive.google.com/file/d/1qs7wO5UOYOLJVpbCufXhjxMYhoqWUdzL/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/yttvhjc7](https://tinyurl.com/yttvhjc7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-cs-prog&show_icons=true&locale=en&layout=compact" alt="yogesh-cs-prog" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-cs-prog&show_icons=true&locale=en" alt="yogesh-cs-prog" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-cs-prog&show_icons=true&theme=dark&locale=en" alt="yogesh-cs-prog" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-cs-prog&" alt="yogesh-cs-prog" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-cs-prog&theme=dark" alt="yogesh-cs-prog" /></p>

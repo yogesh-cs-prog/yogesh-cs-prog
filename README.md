@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **yogesh.5prog@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/4y3tzc3n](https://tinyurl.com/4y3tzc3n))
+- 📄 Know about my experiences [https://tinyurl.com/4y3tzc3n](https://tinyurl.com/4y3tzc3n)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

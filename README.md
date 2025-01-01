@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Three Js**
 
-- 👨‍💻 All of my projects are available at [https://next-portfolio-nu-nine.vercel.app/](https://next-portfolio-nu-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at [Creations 🚀](https://linktr.ee/yogesh_wedDev)
 
 - 💬 Ask me about **MERN | THREE**
 

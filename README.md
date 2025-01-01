@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Creations 🚀](https://linktr.ee/yogesh_wedDev)
 
-- 💬 Ask me about **MERN | THREE**
+- 💬 Ask me about **MERN | THREE | Next Js**
 
 - 📫 How to reach me **yogesh.5prog@gmail.com**
 
